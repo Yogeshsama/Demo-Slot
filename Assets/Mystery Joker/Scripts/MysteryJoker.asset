@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dd38146870417849b28b7112313eec7, type: 3}
+  m_Name: MysteryJoker
+  m_EditorClassIdentifier: 
+  image:
+  - {fileID: 21300000, guid: 1d4abc2ac6d277340918bcf582c0e8ee, type: 3}
+  - {fileID: 21300000, guid: bb669a0b8fb6f9f4587a5e07427b3b43, type: 3}
+  - {fileID: 21300000, guid: 4c2acdc4586207b49b55d25768ea028c, type: 3}
+  - {fileID: 21300000, guid: da15ad0bfadf441408b17ddf4012ea19, type: 3}
+  - {fileID: 21300000, guid: 7a40d23ff445842408f5537b0025e807, type: 3}
+  - {fileID: 21300000, guid: b5712034cc8492f42a4275c9d2f931cb, type: 3}

@@ -1,0 +1,35 @@
+﻿{
+  "status": "success",
+  "statusCode": 200,
+  "data": {
+    "prize": 10,
+    "itemIndexes": [
+      [
+        3,
+        1,
+        2
+      ],
+      [
+        5,
+        1,
+        3
+      ],
+      [
+        4,
+        1,
+        4
+      ]
+    ],
+    "combination": {
+      "1,1,1": {
+        "animationIndexes": [
+          1,
+          1,
+          1
+        ],
+        "prize": 10
+      }
+    },
+    "priceUsed": 0.5
+  }
+}

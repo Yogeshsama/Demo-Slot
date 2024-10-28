@@ -1,0 +1,67 @@
+﻿{
+  "status": "success",
+  "statusCode": 200,
+  "data": {
+    "prize": 6.66,
+    "itemIndexes": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        4
+      ],
+      [
+        5,
+        2,
+        1
+      ]
+    ],
+    "combination": {
+      "0,0,0,0,0": {
+        "animationIndexes": [
+          0,
+          0,
+          0
+        ],
+        "prize": 0.1
+      },
+      "1,1,1,1,1": {
+        "animationIndexes": [
+          1,
+          1,
+          1
+        ],
+        "prize": 6.5
+      },
+      "2,2,2,2,2": {
+        "animationIndexes": [
+          2,
+          2,
+          2
+        ],
+        "prize": 0.02
+      },
+      "3,3,3,3,3": {
+        "animationIndexes": [
+          3,
+          3,
+          3
+        ],
+        "prize": 0.02
+      },
+      "3,3,2,1,1": {
+        "animationIndexes": [
+          3,
+          3,
+          2
+        ],
+        "prize": 0.02
+      }
+    },
+    "priceUsed": 0.5
+  }
+}
